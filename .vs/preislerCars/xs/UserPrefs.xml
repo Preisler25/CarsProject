@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A0F93105-5A93-4F27-AB74-A47BC0E46587}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Models/Car.cs" />
+      <File FileName="Pages/Index.cshtml" />
+      <File FileName="Pages/Index.cshtml.cs" />
+      <File FileName="Pages/Shared/_Layout.cshtml.css" />
+      <File FileName="Pages/_ViewImports.cshtml" />
+      <File FileName="Pages/_ViewStart.cshtml" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="4" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="preislerCars">
+            <Node name="preislerCars" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.preislerCars PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
